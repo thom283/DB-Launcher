@@ -1,0 +1,21 @@
+{
+  "name": "Dodge Balls Launcher",
+  "short_name": "DB Launcher",
+  "description": "Play Dodge Balls the cool way... i guess?",
+  "start_url": "https://thom283.github.io/DB-Launcher/Launcher",
+  "display": "standalone", 
+  "background_color": "#24c6ff",
+  "theme_color": "#24c6ff", 
+  "icons": [
+    {
+      "src": "https://thom283.github.io/DB-Launcher/app192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://thom283.github.io/DB-Launcher/app512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
